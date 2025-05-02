@@ -29,3 +29,9 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 **Architechture Diagram**
 
 ![image](https://github.com/user-attachments/assets/9dbc7624-88e4-42b0-b7d4-c523f256dc75)
+
+**Step by Step Approch**
+1. Download the dataset from kaggle
+2. Create a S3 bucket where we call it as "Landing Area". ("sarath-de-on-youtube-raw-useast1-dev")
+3. load .json and .csv files into S3 bucket using bash commands (Verify .sh file)
+4. 
